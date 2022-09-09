@@ -1,0 +1,16 @@
+# Compiled output
+/dist
+!dist/app.js
+
+# Node
+/node_modules
+package-lock.json
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+
+# misc
+/data
+/resources
+.env
